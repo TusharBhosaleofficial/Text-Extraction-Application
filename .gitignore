@@ -1,0 +1,17 @@
+# Environment variables
+.env
+local.settings.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Flask temp uploads (if any)
+uploads/
+
+# OS files
+Thumbs.db
+.DS_Store
