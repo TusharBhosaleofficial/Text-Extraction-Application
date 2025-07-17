@@ -1,0 +1,5 @@
+azure-functions
+azure-cognitiveservices-vision-computervision
+azure-storage-blob
+python-dotenv
+sendgrid
